@@ -1,0 +1,10 @@
+{
+    "name": "Yedelanguage",
+    "description": "Integrates yedel mods with FPLanguage",
+    "version": "1.0.0",
+    "creator": "Yedel",
+    "entry": "yedelanguage.js",
+    "requires": [
+        "FPLanguage"
+    ]
+}
