@@ -1,4 +1,4 @@
-import { registerToplevelHandler } from "../FPLanguage/toplevel/toplevel";
+import { registerToplevelHandler } from "../FPLanguage/commands/toplevel/toplevel";
 
 const Loader = Java.type("net.minecraftforge.fml.common.Loader");
 const PingQueue = Java.type("at.yedel.yedelmod.features.ping.PingQueue");
